@@ -1,4 +1,5 @@
 carbonwize-test
+
 ข้อ 2.
 /api/carbon/footprint/calculate as POST Method
 db config inside .env 
